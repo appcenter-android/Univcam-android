@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974855778341",
+    "firebase_url": "https://univcam-59851.firebaseio.com",
+    "project_id": "univcam-59851",
+    "storage_bucket": "univcam-59851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974855778341:android:050b57b8e9cf9f2f",
+        "android_client_info": {
+          "package_name": "com.appcenter.univcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974855778341-68lue0h3t1iscce70n4g1guc23c7kp8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appcenter.univcam",
+            "certificate_hash": "8217A454E4E2CA045155B77B6CDBE1ACE22B030C"
+          }
+        },
+        {
+          "client_id": "974855778341-s4r4mjfpff24f8dlsrrb4lj6kahvaa69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDC_OcwEgNAs4OWhF1uGKtPnHk6vES-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974855778341-s4r4mjfpff24f8dlsrrb4lj6kahvaa69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
